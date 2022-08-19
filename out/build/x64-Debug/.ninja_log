@@ -1,0 +1,8 @@
+# ninja log v5
+1	752	6819683289243118	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	7ecc76c88b002da0
+2	119	6825184800344024	build.ninja	561fd8084839b8f1
+2538	2776	6825166476567058	CMakeProject1.exe	1e778784cf72a4b9
+1	3211	6819719089789774	CMakeFiles/CMakeProject1.dir/src/hellod.cpp.obj	2c126a1cfedb8a74
+1	2537	6825166474816618	CMakeFiles/CMakeProject1.dir/src/main.cpp.obj	3c86869460d889d3
+2	2592	6825184947953457	CMakeFiles/CMakeProject1.dir/src/main.cpp.obj	fbdee1a44f3b7b03
+2593	2774	6825184949446312	CMakeProject1.exe	1e778784cf72a4b9
